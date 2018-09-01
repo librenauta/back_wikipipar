@@ -1,0 +1,264 @@
+001 pidgin.png	http://wiki.partidopirata.com.ar/images/0/09/001_pidgin.png	Fauno
+002 configuracion general.png	http://wiki.partidopirata.com.ar/images/3/30/002_configuracion_general.png	Fauno
+002 xmpp.png	http://wiki.partidopirata.com.ar/images/c/c6/002_xmpp.png	Fauno
+002b bouncer pirata.png	http://wiki.partidopirata.com.ar/images/b/bf/002b_bouncer_pirata.png	Fauno
+003 avanzadas.png	http://wiki.partidopirata.com.ar/images/d/d0/003_avanzadas.png	Fauno
+003 cuentas.png	http://wiki.partidopirata.com.ar/images/f/f3/003_cuentas.png	Fauno
+004 agregar un chat.png	http://wiki.partidopirata.com.ar/images/c/cf/004_agregar_un_chat.png	Fauno
+004 piratas.png	http://wiki.partidopirata.com.ar/images/4/4d/004_piratas.png	Fauno
+005 complementos.png	http://wiki.partidopirata.com.ar/images/a/ae/005_complementos.png	Fauno
+005 configurar chat.png	http://wiki.partidopirata.com.ar/images/e/e2/005_configurar_chat.png	Fauno
+006 chat en la lista.png	http://wiki.partidopirata.com.ar/images/1/17/006_chat_en_la_lista.png	Fauno
+006 otr.png	http://wiki.partidopirata.com.ar/images/9/97/006_otr.png	Fauno
+007 conversacion.png	http://wiki.partidopirata.com.ar/images/d/d5/007_conversacion.png	Fauno
+007 ventana de chat.png	http://wiki.partidopirata.com.ar/images/1/10/007_ventana_de_chat.png	Fauno
+008 iniciar otr.png	http://wiki.partidopirata.com.ar/images/d/d5/008_iniciar_otr.png	Fauno
+009 generar llave.png	http://wiki.partidopirata.com.ar/images/2/2a/009_generar_llave.png	Fauno
+010 autenticar.png	http://wiki.partidopirata.com.ar/images/5/5d/010_autenticar.png	Fauno
+011 pregunta.png	http://wiki.partidopirata.com.ar/images/b/b7/011_pregunta.png	Fauno
+012 secreto.png	http://wiki.partidopirata.com.ar/images/f/fe/012_secreto.png	Fauno
+013 huella.png	http://wiki.partidopirata.com.ar/images/9/95/013_huella.png	Fauno
+014 privado.png	http://wiki.partidopirata.com.ar/images/9/99/014_privado.png	Fauno
+015 autenticados.png	http://wiki.partidopirata.com.ar/images/e/e2/015_autenticados.png	Fauno
+11f-vigilancia.pdf	http://wiki.partidopirata.com.ar/images/6/64/11f-vigilancia.pdf	Aza
+2015-09-elaine.png	http://wiki.partidopirata.com.ar/images/9/9e/2015-09-elaine.png	Seykron
+2015-12-elaine.png	http://wiki.partidopirata.com.ar/images/3/30/2015-12-elaine.png	Seykron
+2016-03-elaine.png	http://wiki.partidopirata.com.ar/images/5/57/2016-03-elaine.png	Seykron
+2016-06-elaine.png	http://wiki.partidopirata.com.ar/images/a/af/2016-06-elaine.png	Seykron
+2016-09-elaine.png	http://wiki.partidopirata.com.ar/images/4/4a/2016-09-elaine.png	Seykron
+2016-12-elaine.png	http://wiki.partidopirata.com.ar/images/a/a1/2016-12-elaine.png	Seykron
+20añosrobados.png	http://wiki.partidopirata.com.ar/images/f/f3/20a%C3%B1osrobados.png	Aza
+20px-Cscr-featured.svg.png	http://wiki.partidopirata.com.ar/images/f/ff/20px-Cscr-featured.svg.png	Satiricon
+Afiche Logo con Palabras.jpg	http://wiki.partidopirata.com.ar/images/3/33/Afiche_Logo_con_Palabras.jpg	Sbs
+Afiche Logo con Palabras.png	http://wiki.partidopirata.com.ar/images/d/d1/Afiche_Logo_con_Palabras.png	Sbs
+Amparo partido pirata piratebay.pdf	http://wiki.partidopirata.com.ar/images/8/88/Amparo_partido_pirata_piratebay.pdf	Fauno
+Antiprism.jpg	http://wiki.partidopirata.com.ar/images/9/9d/Antiprism.jpg	Fauno
+Aprender.svg	http://wiki.partidopirata.com.ar/images/7/74/Aprender.svg	Minitrue
+Argentina-Digital-Discurso.pdf	http://wiki.partidopirata.com.ar/images/7/72/Argentina-Digital-Discurso.pdf	Seykron
+Argentina-digital-dictamen.pdf	http://wiki.partidopirata.com.ar/images/b/b5/Argentina-digital-dictamen.pdf	Seykron
+Argentina-digital.odt	http://wiki.partidopirata.com.ar/images/4/4f/Argentina-digital.odt	Seykron
+Argentina-digital.pdf	http://wiki.partidopirata.com.ar/images/d/d0/Argentina-digital.pdf	Seykron
+ArgentinaDigitalOCR.djvu	http://wiki.partidopirata.com.ar/images/f/f0/ArgentinaDigitalOCR.djvu	Fauno
+ArmadaPirata.ttf.tar.gz	http://wiki.partidopirata.com.ar/images/d/d9/ArmadaPirata.ttf.tar.gz	Betiel
+AzaAvatar.png	http://wiki.partidopirata.com.ar/images/9/97/AzaAvatar.png	Aza
+B 2 PLANCHAS.png	http://wiki.partidopirata.com.ar/images/f/f5/B_2_PLANCHAS.png	Librenauta
+Bakunin.jpg	http://wiki.partidopirata.com.ar/images/c/c9/Bakunin.jpg	Rata 0071
+Barco Pirata.jpg	http://wiki.partidopirata.com.ar/images/2/22/Barco_Pirata.jpg	Seykron
+Base apaisado.svg	http://wiki.partidopirata.com.ar/images/4/47/Base_apaisado.svg	Fauno
+Base.svg	http://wiki.partidopirata.com.ar/images/7/71/Base.svg	Fauno
+Batalla.partidopirata.png	http://wiki.partidopirata.com.ar/images/0/00/Batalla.partidopirata.png	Fauno
+Becerro dorado.partidopirata.png	http://wiki.partidopirata.com.ar/images/4/45/Becerro_dorado.partidopirata.png	Fauno
+BecerroDorado A4.pdf	http://wiki.partidopirata.com.ar/images/c/c0/BecerroDorado_A4.pdf	Fauno
+Biblioteca-libre.pdf	http://wiki.partidopirata.com.ar/images/e/e7/Biblioteca-libre.pdf	T1000
+Bolt-cutter-design charnel-house.tar.gz	http://wiki.partidopirata.com.ar/images/8/84/Bolt-cutter-design_charnel-house.tar.gz	Betiel
+Caldav 001.png	http://wiki.partidopirata.com.ar/images/5/5d/Caldav_001.png	Fauno
+Caldav 002.png	http://wiki.partidopirata.com.ar/images/7/7d/Caldav_002.png	Fauno
+Caldav 003.png	http://wiki.partidopirata.com.ar/images/5/5b/Caldav_003.png	Fauno
+Caldav 004.png	http://wiki.partidopirata.com.ar/images/9/9a/Caldav_004.png	Fauno
+Caldav 005.png	http://wiki.partidopirata.com.ar/images/7/77/Caldav_005.png	Fauno
+Caldav 006.png	http://wiki.partidopirata.com.ar/images/f/fb/Caldav_006.png	Fauno
+Caldav 007.png	http://wiki.partidopirata.com.ar/images/1/1a/Caldav_007.png	Fauno
+Caldav 008.png	http://wiki.partidopirata.com.ar/images/6/69/Caldav_008.png	Fauno
+Caldav 009.png	http://wiki.partidopirata.com.ar/images/4/41/Caldav_009.png	Fauno
+Caldav 010.png	http://wiki.partidopirata.com.ar/images/c/cf/Caldav_010.png	Fauno
+Caldav 011.png	http://wiki.partidopirata.com.ar/images/0/0c/Caldav_011.png	Fauno
+Caldav 012.png	http://wiki.partidopirata.com.ar/images/5/5d/Caldav_012.png	Fauno
+Caldav 013.png	http://wiki.partidopirata.com.ar/images/2/29/Caldav_013.png	Fauno
+Caldav 014.png	http://wiki.partidopirata.com.ar/images/a/a9/Caldav_014.png	Fauno
+Callejero.png	http://wiki.partidopirata.com.ar/images/6/65/Callejero.png	Aza
+Camus.jpg	http://wiki.partidopirata.com.ar/images/c/cf/Camus.jpg	Fauno
+Cara libre de copyright.jpg	http://wiki.partidopirata.com.ar/images/0/08/Cara_libre_de_copyright.jpg	Fauno
+Cara libre.partidopirata.png	http://wiki.partidopirata.com.ar/images/0/0e/Cara_libre.partidopirata.png	Fauno
+CaraLibre A4.pdf	http://wiki.partidopirata.com.ar/images/7/76/CaraLibre_A4.pdf	Fauno
+CaraLibre+OriginalMuerto A5.pdf	http://wiki.partidopirata.com.ar/images/f/f3/CaraLibre%2BOriginalMuerto_A5.pdf	Fauno
+Comunicacion-pirata.gif	http://wiki.partidopirata.com.ar/images/7/7f/Comunicacion-pirata.gif	Seykron
+Criminalizados-2011.png	http://wiki.partidopirata.com.ar/images/e/ed/Criminalizados-2011.png	Betiel
+Cryptoparty.pdf	http://wiki.partidopirata.com.ar/images/8/8d/Cryptoparty.pdf	Aza
+DICTAMEN DE RECHAZO-Hidrocarburos- Fte. Renovador-21.10.odt	http://wiki.partidopirata.com.ar/images/e/e6/DICTAMEN_DE_RECHAZO-Hidrocarburos-_Fte._Renovador-21.10.odt	Seykron
+Declaracion de la Independencia 02.pdf	http://wiki.partidopirata.com.ar/images/9/9b/Declaracion_de_la_Independencia_02.pdf	Librenauta
+DeclaracionPrincipios.png	http://wiki.partidopirata.com.ar/images/1/1e/DeclaracionPrincipios.png	Betiel
+Dialog-warning-orange.svg	http://wiki.partidopirata.com.ar/images/d/d7/Dialog-warning-orange.svg	Fauno
+Dictamen Argentina Digital.pdf	http://wiki.partidopirata.com.ar/images/8/88/Dictamen_Argentina_Digital.pdf	Seykron
+Donar.png	http://wiki.partidopirata.com.ar/images/2/24/Donar.png	Seykron
+Dsc00399.jpg	http://wiki.partidopirata.com.ar/images/c/cc/Dsc00399.jpg	Leandro
+El Mate es P2P Pixelado (Vertical).jpg	http://wiki.partidopirata.com.ar/images/2/2e/El_Mate_es_P2P_Pixelado_%28Vertical%29.jpg	Sbs
+El Mate es P2P con logo pirata.jpg	http://wiki.partidopirata.com.ar/images/0/02/El_Mate_es_P2P_con_logo_pirata.jpg	Fauno
+El Mate es P2P pixelado (Vertical) con logo.jpg	http://wiki.partidopirata.com.ar/images/e/e1/El_Mate_es_P2P_pixelado_%28Vertical%29_con_logo.jpg	Sbs
+El Mate es P2P.jpg	http://wiki.partidopirata.com.ar/images/1/1d/El_Mate_es_P2P.jpg	Fauno
+El becerro dorado.jpg	http://wiki.partidopirata.com.ar/images/b/bf/El_becerro_dorado.jpg	Fauno
+El original ha muerto, larga vida a la copia A4.pdf	http://wiki.partidopirata.com.ar/images/2/21/El_original_ha_muerto%2C_larga_vida_a_la_copia_A4.pdf	Fauno
+El original ha muerto, larga vida a la copia!.jpg	http://wiki.partidopirata.com.ar/images/b/b0/El_original_ha_muerto%2C_larga_vida_a_la_copia%21.jpg	Fauno
+Entrevista050214 LaTribu.ogg	http://wiki.partidopirata.com.ar/images/5/52/Entrevista050214_LaTribu.ogg	Tom
+Estado de Vigilancia - Privacidad cero V1.0.jpg	http://wiki.partidopirata.com.ar/images/2/20/Estado_de_Vigilancia_-_Privacidad_cero_V1.0.jpg	Sbs
+Fantasy clipart 2.ttf.tar.gz	http://wiki.partidopirata.com.ar/images/7/7f/Fantasy_clipart_2.ttf.tar.gz	Betiel
+FaunoAvatar.png	http://wiki.partidopirata.com.ar/images/7/7e/FaunoAvatar.png	Fauno
+Fdroid1.png	http://wiki.partidopirata.com.ar/images/d/d7/Fdroid1.png	Williams
+Fdroid2.png	http://wiki.partidopirata.com.ar/images/6/6a/Fdroid2.png	Williams
+Fdroid3.png	http://wiki.partidopirata.com.ar/images/5/52/Fdroid3.png	Williams
+Fdroid4.png	http://wiki.partidopirata.com.ar/images/2/26/Fdroid4.png	Williams
+Fdroid5.png	http://wiki.partidopirata.com.ar/images/a/ab/Fdroid5.png	Williams
+Floodfonts flood.tar.gz	http://wiki.partidopirata.com.ar/images/f/f0/Floodfonts_flood.tar.gz	Betiel
+Folleto dona un libro-low.png	http://wiki.partidopirata.com.ar/images/3/3f/Folleto_dona_un_libro-low.png	Betiel
+Folleto s3030 a4.svg	http://wiki.partidopirata.com.ar/images/6/62/Folleto_s3030_a4.svg	Betiel
+Folleto s3030.png	http://wiki.partidopirata.com.ar/images/3/33/Folleto_s3030.png	Betiel
+Folleto.svg	http://wiki.partidopirata.com.ar/images/1/11/Folleto.svg	Fauno
+Folleto2.png	http://wiki.partidopirata.com.ar/images/c/c4/Folleto2.png	Aza
+Fuera monsanto 2 Dic2012.jpg	http://wiki.partidopirata.com.ar/images/d/d5/Fuera_monsanto_2_Dic2012.jpg	Sbs
+G&T Mayo estático B.png	http://wiki.partidopirata.com.ar/images/1/19/G%26T_Mayo_est%C3%A1tico_B.png	Librenauta
+G&T Mayo estático W.png	http://wiki.partidopirata.com.ar/images/a/af/G%26T_Mayo_est%C3%A1tico_W.png	Librenauta
+G&T bichitos.gif	http://wiki.partidopirata.com.ar/images/7/79/G%26T_bichitos.gif	Librenauta
+G&T bichitos.svg	http://wiki.partidopirata.com.ar/images/2/26/G%26T_bichitos.svg	Librenauta
+G&T-06-08-2016.png	http://wiki.partidopirata.com.ar/images/6/6f/G%26T-06-08-2016.png	Librenauta
+G&T-Abril.png	http://wiki.partidopirata.com.ar/images/4/42/G%26T-Abril.png	Librenauta
+Gibberbot 01.png	http://wiki.partidopirata.com.ar/images/5/52/Gibberbot_01.png	Godlike
+Gibberbot 02.png	http://wiki.partidopirata.com.ar/images/9/9a/Gibberbot_02.png	Godlike
+Gibberbot 03.png	http://wiki.partidopirata.com.ar/images/e/e7/Gibberbot_03.png	Godlike
+Gibberbot 04.png	http://wiki.partidopirata.com.ar/images/b/b9/Gibberbot_04.png	Godlike
+Gibberbot 05.png	http://wiki.partidopirata.com.ar/images/f/f1/Gibberbot_05.png	Godlike
+Gibberbot 06.png	http://wiki.partidopirata.com.ar/images/5/5c/Gibberbot_06.png	Godlike
+Gibberbot 07.png	http://wiki.partidopirata.com.ar/images/3/38/Gibberbot_07.png	Godlike
+Gibberbot 08.png	http://wiki.partidopirata.com.ar/images/4/49/Gibberbot_08.png	Godlike
+Gibberbot 09.png	http://wiki.partidopirata.com.ar/images/e/e9/Gibberbot_09.png	Godlike
+Gibberbot 10.png	http://wiki.partidopirata.com.ar/images/7/7b/Gibberbot_10.png	Godlike
+Gibberbot 11.png	http://wiki.partidopirata.com.ar/images/8/89/Gibberbot_11.png	Godlike
+Gibberbot 12.png	http://wiki.partidopirata.com.ar/images/b/b7/Gibberbot_12.png	Godlike
+Gibberbot 13.png	http://wiki.partidopirata.com.ar/images/c/cd/Gibberbot_13.png	Godlike
+Gibberbot 14.png	http://wiki.partidopirata.com.ar/images/e/e0/Gibberbot_14.png	Godlike
+Gibberbot 15.png	http://wiki.partidopirata.com.ar/images/2/27/Gibberbot_15.png	Godlike
+Gibberbot 16.png	http://wiki.partidopirata.com.ar/images/2/26/Gibberbot_16.png	Godlike
+Gibberbot 17.png	http://wiki.partidopirata.com.ar/images/2/2b/Gibberbot_17.png	Godlike
+Grog&Tor Mayo.gif	http://wiki.partidopirata.com.ar/images/1/1a/Grog%26Tor_Mayo.gif	Librenauta
+Grog&Tor frames.svg	http://wiki.partidopirata.com.ar/images/4/4d/Grog%26Tor_frames.svg	Fauno
+Grog&Tor interdimensional.gif	http://wiki.partidopirata.com.ar/images/0/0b/Grog%26Tor_interdimensional.gif	Fauno
+Grog&Tor tribu.svg	http://wiki.partidopirata.com.ar/images/2/24/Grog%26Tor_tribu.svg	Fauno
+GrogTor.svg	http://wiki.partidopirata.com.ar/images/a/a7/GrogTor.svg	Fauno
+GuiaCryptoCat Pagina 1.png	http://wiki.partidopirata.com.ar/images/c/ca/GuiaCryptoCat_Pagina_1.png	Fauno
+GuiaCryptoCat Pagina 3.png	http://wiki.partidopirata.com.ar/images/7/78/GuiaCryptoCat_Pagina_3.png	Fauno
+Guybrush-4.jpg	http://wiki.partidopirata.com.ar/images/0/0b/Guybrush-4.jpg	Fauno
+Hilos-ppar.png	http://wiki.partidopirata.com.ar/images/2/22/Hilos-ppar.png	Rata 0071
+Internet-group-chat.svg	http://wiki.partidopirata.com.ar/images/3/39/Internet-group-chat.svg	Fauno
+Invoice-elaine-4004107480.jpg	http://wiki.partidopirata.com.ar/images/2/26/Invoice-elaine-4004107480.jpg	Seykron
+Invoice-elaine-4004119566.jpg	http://wiki.partidopirata.com.ar/images/6/61/Invoice-elaine-4004119566.jpg	Seykron
+Invoice-elaine-4004132718.jpg	http://wiki.partidopirata.com.ar/images/7/72/Invoice-elaine-4004132718.jpg	Seykron
+Invoice-elaine-4004144991.jpg	http://wiki.partidopirata.com.ar/images/5/5c/Invoice-elaine-4004144991.jpg	Seykron
+Jesus+Proudhon A5.pdf	http://wiki.partidopirata.com.ar/images/8/8e/Jesus%2BProudhon_A5.pdf	Fauno
+Kopimi-Stickers-A3-print.pdf	http://wiki.partidopirata.com.ar/images/b/bf/Kopimi-Stickers-A3-print.pdf	Minitrue
+Kopimi-Stickers-A3.svg	http://wiki.partidopirata.com.ar/images/f/f4/Kopimi-Stickers-A3.svg	Fauno
+La Batalla del Copyright.jpg	http://wiki.partidopirata.com.ar/images/1/1d/La_Batalla_del_Copyright.jpg	Fauno
+La propiedad intelectual es el robo A4.pdf	http://wiki.partidopirata.com.ar/images/4/4c/La_propiedad_intelectual_es_el_robo_A4.pdf	Fauno
+La propiedad intelectual es el robo.jpg	http://wiki.partidopirata.com.ar/images/2/2f/La_propiedad_intelectual_es_el_robo.jpg	Fauno
+LaBatallaDelCopyright A4.pdf	http://wiki.partidopirata.com.ar/images/5/5e/LaBatallaDelCopyright_A4.pdf	Fauno
+Liberation-fonts-1.04.tar.gz	http://wiki.partidopirata.com.ar/images/3/37/Liberation-fonts-1.04.tar.gz	Betiel
+Logo Etherpad.png	http://wiki.partidopirata.com.ar/images/f/ff/Logo_Etherpad.png	Fauno
+Logo nuevo.png	http://wiki.partidopirata.com.ar/images/6/63/Logo_nuevo.png	Sbs
+Logo pirata con frases v1.1.jpg	http://wiki.partidopirata.com.ar/images/c/c3/Logo_pirata_con_frases_v1.1.jpg	Sbs
+Logo pirata con frases.png	http://wiki.partidopirata.com.ar/images/3/3d/Logo_pirata_con_frases.png	Sbs
+Logo-PPAr.svg	http://wiki.partidopirata.com.ar/images/e/ee/Logo-PPAr.svg	Fauno
+Logo-con-leyenda.png	http://wiki.partidopirata.com.ar/images/9/96/Logo-con-leyenda.png	Aza
+Logo-ppar.png	http://wiki.partidopirata.com.ar/images/f/f1/Logo-ppar.png	Fauno
+Logo.svg	http://wiki.partidopirata.com.ar/images/6/6f/Logo.svg	BNeutral
+Manifiesto Nickname.pdf	http://wiki.partidopirata.com.ar/images/d/db/Manifiesto_Nickname.pdf	Librenauta
+ManifiestoPoetico.png	http://wiki.partidopirata.com.ar/images/a/af/ManifiestoPoetico.png	Betiel
+Marcha.pdf	http://wiki.partidopirata.com.ar/images/e/eb/Marcha.pdf	Aza
+Mate es P 2 P (Horizontal ) .jpg	http://wiki.partidopirata.com.ar/images/1/1f/Mate_es_P_2_P_%28Horizontal_%29_.jpg	Sbs
+Mate es P 2 P (Horizontal) con logo .jpg	http://wiki.partidopirata.com.ar/images/0/0e/Mate_es_P_2_P_%28Horizontal%29_con_logo_.jpg	Sbs
+MinitrueAvatar.jpeg	http://wiki.partidopirata.com.ar/images/a/ac/MinitrueAvatar.jpeg	Minitrue
+MinitrueAvatar.png	http://wiki.partidopirata.com.ar/images/a/a6/MinitrueAvatar.png	Minitrue
+Monsanto.png	http://wiki.partidopirata.com.ar/images/1/18/Monsanto.png	Rata 0071
+MpjAvatar.jpg	http://wiki.partidopirata.com.ar/images/5/53/MpjAvatar.jpg	Mpj
+MpjAvatar.png	http://wiki.partidopirata.com.ar/images/c/c0/MpjAvatar.png	Mpj
+Mumble 001.png	http://wiki.partidopirata.com.ar/images/d/d5/Mumble_001.png	Fauno
+Mumble 002.png	http://wiki.partidopirata.com.ar/images/f/fa/Mumble_002.png	Fauno
+Mumble 003.png	http://wiki.partidopirata.com.ar/images/7/72/Mumble_003.png	Fauno
+Mumble 004.png	http://wiki.partidopirata.com.ar/images/4/41/Mumble_004.png	Fauno
+Mumble 005.png	http://wiki.partidopirata.com.ar/images/4/4d/Mumble_005.png	Fauno
+Mumble 006.png	http://wiki.partidopirata.com.ar/images/f/f1/Mumble_006.png	Fauno
+Mumble 007.png	http://wiki.partidopirata.com.ar/images/1/19/Mumble_007.png	Fauno
+Mumble 008.png	http://wiki.partidopirata.com.ar/images/6/67/Mumble_008.png	Fauno
+Mumble 009.png	http://wiki.partidopirata.com.ar/images/b/b9/Mumble_009.png	Fauno
+Mumble 010.png	http://wiki.partidopirata.com.ar/images/2/22/Mumble_010.png	Fauno
+Mumble 011.png	http://wiki.partidopirata.com.ar/images/5/59/Mumble_011.png	Fauno
+Mumble 012.png	http://wiki.partidopirata.com.ar/images/6/64/Mumble_012.png	Fauno
+Mumble 013.png	http://wiki.partidopirata.com.ar/images/3/3c/Mumble_013.png	Fauno
+Mumble 014.png	http://wiki.partidopirata.com.ar/images/a/a0/Mumble_014.png	Fauno
+MusicBay-Stickers-A3-Print.pdf	http://wiki.partidopirata.com.ar/images/a/a2/MusicBay-Stickers-A3-Print.pdf	Minitrue
+Odds n Sods.ttf.tar.gz	http://wiki.partidopirata.com.ar/images/7/79/Odds_n_Sods.ttf.tar.gz	Betiel
+Organizar-mails.png	http://wiki.partidopirata.com.ar/images/e/ee/Organizar-mails.png	Aza
+Original muerto.partidopirata.png	http://wiki.partidopirata.com.ar/images/a/a5/Original_muerto.partidopirata.png	Fauno
+Originarios.jpg	http://wiki.partidopirata.com.ar/images/5/55/Originarios.jpg	Sbs
+Overthrow.svg	http://wiki.partidopirata.com.ar/images/5/58/Overthrow.svg	Aza
+Pad-barra-derecha.png	http://wiki.partidopirata.com.ar/images/8/88/Pad-barra-derecha.png	Fauno
+Pad-barra-izquierda.png	http://wiki.partidopirata.com.ar/images/3/3d/Pad-barra-izquierda.png	Fauno
+Pad-en-blanco.png	http://wiki.partidopirata.com.ar/images/f/fd/Pad-en-blanco.png	Fauno
+Pad.png	http://wiki.partidopirata.com.ar/images/8/86/Pad.png	Fauno
+Parches piratas camara a3.pdf	http://wiki.partidopirata.com.ar/images/1/19/Parches_piratas_camara_a3.pdf	Aza
+Parte 1.tar.gz	http://wiki.partidopirata.com.ar/images/8/89/Parte_1.tar.gz	Gnu tesla
+Parte 2.tar.gz	http://wiki.partidopirata.com.ar/images/2/2f/Parte_2.tar.gz	Gnu tesla
+Participar.svg	http://wiki.partidopirata.com.ar/images/2/24/Participar.svg	Minitrue
+Partido Pirata Banner.jpg	http://wiki.partidopirata.com.ar/images/e/e9/Partido_Pirata_Banner.jpg	Sbs
+Partido Pirata Connecting People.jpg	http://wiki.partidopirata.com.ar/images/b/bb/Partido_Pirata_Connecting_People.jpg	Sbs
+Partidopirata autoadhesivoblanco a3.pdf	http://wiki.partidopirata.com.ar/images/2/29/Partidopirata_autoadhesivoblanco_a3.pdf	Minitrue
+Pidgin-otr-mensaje-cifrado.png	http://wiki.partidopirata.com.ar/images/0/00/Pidgin-otr-mensaje-cifrado.png	Fauno
+Pidgin-otr-mensaje-sin-cifrar.png	http://wiki.partidopirata.com.ar/images/f/ff/Pidgin-otr-mensaje-sin-cifrar.png	Fauno
+Piratas-obelisco9.jpg	http://wiki.partidopirata.com.ar/images/b/b1/Piratas-obelisco9.jpg	Fauno
+PlanchaStickersA4 PPAr.pdf	http://wiki.partidopirata.com.ar/images/e/e8/PlanchaStickersA4_PPAr.pdf	Fauno
+PlanchaStickersA4 PPAr.svg	http://wiki.partidopirata.com.ar/images/b/b4/PlanchaStickersA4_PPAr.svg	Fauno
+Plantilla-volante-2014.png	http://wiki.partidopirata.com.ar/images/b/b1/Plantilla-volante-2014.png	Aza
+PlantillaTapa-UtopiaPirata.svg	http://wiki.partidopirata.com.ar/images/e/ec/PlantillaTapa-UtopiaPirata.svg	Fauno
+Porque la pirateria es.pdf	http://wiki.partidopirata.com.ar/images/e/e5/Porque_la_pirateria_es.pdf	Librenauta
+Ppar.jpg.png	http://wiki.partidopirata.com.ar/images/8/88/Ppar.jpg.png	Fauno
+Propiedad intelectual.partidopirata.png	http://wiki.partidopirata.com.ar/images/5/56/Propiedad_intelectual.partidopirata.png	Fauno
+QrPirata.png	http://wiki.partidopirata.com.ar/images/d/d6/QrPirata.png	Betiel
+Que es el PPAR A4.pdf	http://wiki.partidopirata.com.ar/images/0/03/Que_es_el_PPAR_A4.pdf	Librenauta
+Que haya copias.partidopirata.png	http://wiki.partidopirata.com.ar/images/8/8f/Que_haya_copias.partidopirata.png	Fauno
+Que haya cultura (Jesus) A4.pdf	http://wiki.partidopirata.com.ar/images/f/fb/Que_haya_cultura_%28Jesus%29_A4.pdf	Fauno
+Que haya cultura (Jesus).jpg	http://wiki.partidopirata.com.ar/images/8/82/Que_haya_cultura_%28Jesus%29.jpg	Fauno
+R-IRC1.jpg	http://wiki.partidopirata.com.ar/images/b/b8/R-IRC1.jpg	Librenauta
+R-IRC2.jpg	http://wiki.partidopirata.com.ar/images/d/d2/R-IRC2.jpg	Librenauta
+R-IRC3.jpg	http://wiki.partidopirata.com.ar/images/1/1f/R-IRC3.jpg	Librenauta
+Reglas Grog &tor A merged.pdf	http://wiki.partidopirata.com.ar/images/3/31/Reglas_Grog_%26tor_A_merged.pdf	Librenauta
+Reglas Grog &tor.svg	http://wiki.partidopirata.com.ar/images/c/cd/Reglas_Grog_%26tor.svg	Librenauta
+Reunion Online.png	http://wiki.partidopirata.com.ar/images/e/eb/Reunion_Online.png	Sbs
+Reunion Pirata Belgrano.jpg	http://wiki.partidopirata.com.ar/images/5/5a/Reunion_Pirata_Belgrano.jpg	Sbs
+Reunion Pirata Villa Crespo.png	http://wiki.partidopirata.com.ar/images/9/9e/Reunion_Pirata_Villa_Crespo.png	Sbs
+Ryan-splint rapscallion.tar.gz	http://wiki.partidopirata.com.ar/images/2/20/Ryan-splint_rapscallion.tar.gz	Betiel
+Sassy-graphics ships.tar.gz	http://wiki.partidopirata.com.ar/images/7/7b/Sassy-graphics_ships.tar.gz	Betiel
+Se pirata.gz	http://wiki.partidopirata.com.ar/images/5/5f/Se_pirata.gz	KaZe
+Se pirata.png	http://wiki.partidopirata.com.ar/images/c/cb/Se_pirata.png	KaZe
+Send-email.svg	http://wiki.partidopirata.com.ar/images/0/04/Send-email.svg	Fauno
+SeykronAvatar.png	http://wiki.partidopirata.com.ar/images/c/c2/SeykronAvatar.png	Seykron
+Soypirata1.png	http://wiki.partidopirata.com.ar/images/6/63/Soypirata1.png	Betiel
+Soypirata2.png	http://wiki.partidopirata.com.ar/images/9/92/Soypirata2.png	Betiel
+Soypirata3.png	http://wiki.partidopirata.com.ar/images/2/22/Soypirata3.png	Betiel
+Stickers.pdf	http://wiki.partidopirata.com.ar/images/0/06/Stickers.pdf	Librenauta
+Subi-libros-2011.png	http://wiki.partidopirata.com.ar/images/1/1d/Subi-libros-2011.png	Betiel
+Subi1libro.png	http://wiki.partidopirata.com.ar/images/b/bb/Subi1libro.png	Aza
+Tesla spanish.pdf	http://wiki.partidopirata.com.ar/images/5/5c/Tesla_spanish.pdf	Gnu tesla
+Tesla-oatmeal-2-spanish.jpg	http://wiki.partidopirata.com.ar/images/c/ce/Tesla-oatmeal-2-spanish.jpg	Gnu tesla
+Tesla-oatmeal-2-spanish.pdf	http://wiki.partidopirata.com.ar/images/a/a4/Tesla-oatmeal-2-spanish.pdf	Gnu tesla
+TeslaGeek.pdf	http://wiki.partidopirata.com.ar/images/8/87/TeslaGeek.pdf	Gnu tesla
+TextSecure.png	http://wiki.partidopirata.com.ar/images/e/e5/TextSecure.png	Fauno
+Textos.svg	http://wiki.partidopirata.com.ar/images/0/05/Textos.svg	Minitrue
+TomAvatar.png	http://wiki.partidopirata.com.ar/images/9/93/TomAvatar.png	Tom
+Trabajo para FB.pdf	http://wiki.partidopirata.com.ar/images/d/d0/Trabajo_para_FB.pdf	Librenauta
+Ttf-bitstream-vera-1.10.tar.gz	http://wiki.partidopirata.com.ar/images/a/a5/Ttf-bitstream-vera-1.10.tar.gz	Betiel
+Una licencia Anticapitalista.pdf	http://wiki.partidopirata.com.ar/images/8/8c/Una_licencia_Anticapitalista.pdf	Librenauta
+Utopia pirata logo.png	http://wiki.partidopirata.com.ar/images/8/88/Utopia_pirata_logo.png	Aza
+UtopiaPirata-Stickers-A3.pdf	http://wiki.partidopirata.com.ar/images/3/35/UtopiaPirata-Stickers-A3.pdf	Minitrue
+UtopiaPirata.svg	http://wiki.partidopirata.com.ar/images/0/00/UtopiaPirata.svg	Fauno
+Volante-piratefest-ok.png	http://wiki.partidopirata.com.ar/images/a/a9/Volante-piratefest-ok.png	Betiel
+Volantesaur.pdf	http://wiki.partidopirata.com.ar/images/3/31/Volantesaur.pdf	Aza
+VotePirata.jpg	http://wiki.partidopirata.com.ar/images/d/d0/VotePirata.jpg	Sbs
+Vuelveelnick.png	http://wiki.partidopirata.com.ar/images/8/8f/Vuelveelnick.png	Aza
+WikiSprint P2P Afiche con logo.png	http://wiki.partidopirata.com.ar/images/1/15/WikiSprint_P2P_Afiche_con_logo.png	Sbs
+WikiSprint P2P Afiche.png	http://wiki.partidopirata.com.ar/images/d/de/WikiSprint_P2P_Afiche.png	Sbs
+Yoda-cambiar-la-politica.png	http://wiki.partidopirata.com.ar/images/a/ae/Yoda-cambiar-la-politica.png	Aza
+Yoda-plantilla.png	http://wiki.partidopirata.com.ar/images/a/ab/Yoda-plantilla.png	Aza
+Yosoypirata.png	http://wiki.partidopirata.com.ar/images/4/44/Yosoypirata.png	Aza
+ZINE -1 Como instalar f-droid -1 00.pdf	http://wiki.partidopirata.com.ar/images/3/32/ZINE_-1_Como_instalar_f-droid_-1_00.pdf	Librenauta
+ZINE -2 Como crear torrents -2 03.pdf	http://wiki.partidopirata.com.ar/images/8/81/ZINE_-2_Como_crear_torrents_-2_03.pdf	Librenauta
+Zona libre A4.pdf	http://wiki.partidopirata.com.ar/images/9/91/Zona_libre_A4.pdf	Fauno
+Zona libre.jpg	http://wiki.partidopirata.com.ar/images/c/ca/Zona_libre.jpg	Fauno
+Zona libre.partidopirata.png	http://wiki.partidopirata.com.ar/images/e/ed/Zona_libre.partidopirata.png	Fauno
+ZonaLibre+Batalla A5.pdf	http://wiki.partidopirata.com.ar/images/0/0b/ZonaLibre%2BBatalla_A5.pdf	Fauno
+--END--
